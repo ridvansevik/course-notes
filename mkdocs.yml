@@ -1,15 +1,15 @@
 # Project information
-site_name: RTEU Course Notes Templates
+site_name: Resevk Course Notes
 docs_dir: docs  # Where to find the English markdown files
 site_dir: site  # Where to put the English HTML files
-site_author: 'Asst. Prof. Dr. Uğur CORUH'
+site_author: 'Student Ridvan SEVIK'
 site_url: 'https://ridvansevik.github.io/course-notes/'
 
 site_description_en: >-
-    Course Notes Templates
+   Course Notes for RES
 
 site_description_tr: >-
-    Ders Notu Şablonu
+    RES için ders notları
 
 # Repository
 repo_name: 'GitHub'

@@ -49,7 +49,7 @@ math: mathjax
 
 <!-- paginate: false -->
 
-## Dirst Week
+## First Week
 
 ### Week-1
 

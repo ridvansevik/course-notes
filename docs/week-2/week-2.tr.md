@@ -10,10 +10,10 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: "2.Notes"
+header: "CE103 Algorithms and Programming I"
 footer: "![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE103 Week-2"
-title: "Second Week Notes"
-author: "Student Ridvan SEVIK"
+title: "Algorithms and Programming"
+author: "Ridvan SEVIK"
 date:
 subtitle: "Development Environments and Algorithm Basics"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
@@ -49,8 +49,9 @@ math: mathjax
 
 <!-- paginate: false -->
 
-## Second Week Notes
+## CE103 Algorithms and Programming I
 
+### Week-2
 
 #### Software Development Environments
 
@@ -83,6 +84,7 @@ Codepen.io, Codebeautify.org, Codeshare.io,AsciiFlow.com, Freemind, Mockflow, Wi
 
 ## Algorithm Basics
 
+---
 
 ### Flowgorithm (1)
 

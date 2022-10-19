@@ -10,9 +10,9 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: '1.Notes'
+header: 'CE103 Algorithms and Programming I'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE103 Week-1'
-title: "First WEEK"
+title: "CE103 Algorithms and Programming I"
 author: "Student Ridvan SEVIK"
 date:
 subtitle: "Intro"
@@ -49,7 +49,7 @@ math: mathjax
 
 <!-- paginate: false -->
 
-## First Week
+## CE103 Algorithms and Programming I
 
 ### Week-1
 
@@ -73,6 +73,18 @@ Download [DOC](ce103-week-1-intro.en.md_doc.pdf), [SLIDE](ce103-week-1-intro.en.
 - Windows Helper Utilities
 - Shortcuts 
 - Command-Line Interface and Usefull Commands
+
+---
+
+### Brief Description of Course and Rules
+
+We will first talk about, 
+
+1. Course Plan and Communication
+
+2. Grading System, Homework,s and Exams
+
+please read the syllabus carefully. 
 
 ---
 
@@ -130,14 +142,63 @@ Download [DOC](ce103-week-1-intro.en.md_doc.pdf), [SLIDE](ce103-week-1-intro.en.
 
 ### Our focus is Software Development
 
-check it.
+for this reason, we will focus on software-based road-maps
+
+we can use common developer road maps from
+
 https://roadmap.sh/
+
+---
+
+### What will you see in the roadmap?
+
+- [Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
+
+- [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
+
+- [DevOps Roadmap: Learn to become a DevOps Engineer or SRE](https://roadmap.sh/devops)
+
+- [DBA Roadmap: Learn to become a database administrator with PostgreSQL](https://roadmap.sh/postgresql-dba)
+
+and [more](https://roadmap.sh/)
 
 ---
 
 ### Open a formal e-mail account
 
-like ridvan.sevik.tr@gmail.com
+name.surname@gmail.com
+
+n.surname@gmail.com
+
+surname.name@gmail.com
+
+namesurname@gmail.com
+
+etc. do not have numbers in your e-mail adress
+
+---
+
+### Social Media and Job Search Profiles
+
+- Open the following accounts
+  
+  - Linkedin
+  
+  - Gitlab
+  
+  - Bitbucket
+  
+  - Docker
+  
+  - Github
+  
+  - ORCID
+  
+  - ARBİS
+  
+  - Hackerrank
+  
+  - Publons
 
 ---
 
@@ -153,6 +214,29 @@ like ridvan.sevik.tr@gmail.com
 
 and more...
 
+---
+
+### Also, you need soft skills
+
+- Excellent written and oral communication skills, including public speaking and presenting
+- Decisiveness under pressure and strong critical thinking skills
+- Willingness to work off-core-hours, when necessary, to deploy software or upgrade hardware
+
+---
+
+### If you need more information about your profession
+
+Visit Job Search Web Portals and Look at Requirements to Understand What is Real Life Need
+
+- https://www.kariyer.net/
+
+- https://www.yenibiris.com/
+
+- https://www.secretcv.com/
+
+- https://www.linkedin.com/
+
+- Etc.
 
 ---
 
@@ -228,6 +312,13 @@ and more...
 
 ### **Intro to the Internet**
 
+---
+
+#### What is IP Address?
+
+![alt:"alt" height:450px center](assets/2022-01-09-22-32-28-image.png)
+
+---
 
 #### What is IP Address?
 
@@ -238,6 +329,16 @@ and more...
 #### What is IP Address?
 
 ![alt:"alt" height:450px center](assets/2022-01-09-22-32-50-image.png)
+
+---
+
+#### What is Port?
+
+In [computer networking](https://en.wikipedia.org/wiki/Computer_networking), a port is a communication endpoint. At the software level, within an [operating system](https://en.wikipedia.org/wiki/Operating_system), a port is a logical construct that identifies a specific [process](https://en.wikipedia.org/wiki/Process_(computing)) or a type of [network service](https://en.wikipedia.org/wiki/Network_service). A port is identified for each [transport protocol](https://en.wikipedia.org/wiki/Transport_protocol) and address combination by a 16-bit [unsigned number](https://en.wikipedia.org/wiki/Unsigned_number), known as the port number.
+The most common transport protocols that use port numbers are the [Transmission
+Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) (TCP) and the [User Datagram Protocol](https://en.wikipedia.org/wiki/User_Datagram_Protocol) (UDP).
+
+[reference](https://en.wikipedia.org/wiki/Port_(computer_networking))
 
 ---
 
@@ -351,15 +452,43 @@ $$
 
 The window, which is usually called the **command line** or **command-line interface**, is a text-based application for viewing, handling, and manipulating files on your computer. It's much like Windows Explorer or Finder on the Mac, but without the graphical interface. Other names for the command line are: 
 
+`cmd, CLI, prompt, console or terminal `
+
+While there are many commands you can use with CLI, they all fall into <u>two categories</u>:
+
+- The commands that handle the processes
+
+- The commands that handle the files
+
+[reference]([Introduction to command line · HonKit](https://tutorial.djangogirls.org/en/intro_to_command_line/))
+
 ---
 
 #### Why Would You Use CLI over GUI?
 
 - **Less Resource**
-- **High Precision**
-- **Repetitive Tasks Friendly**
-- **Powerful**
+  It is not a secret that the text-based program needs very little resources of your computer. This means that with CLI you can do similar tasks with minimum resources.
 
+---
+
+#### Why Would You Use CLI over GUI?
+
+- **High Precision**
+  You can use a specific command to target specific destinations with ease. As long as you don’t type the wrong command, it will work like a charm. Once you learn the basics, writing syntax is not as hard as you might think.
+
+---
+
+#### Why Would You Use CLI over GUI?
+
+- **Repetitive Tasks Friendly**
+  GUI has developed well over the years. But, the operating system may not give you all the menus and buttons to perform all tasks. One of the reasons is safety. This leaves you overwhelmed if you have to do repetitive tasks. For example, when you have to handle hundreds of files within a folder, CLI enables you to use a single command to do automate the repetition easily.
+
+---
+
+#### Why Would You Use CLI over GUI?
+
+- **Powerful**
+  Most operating systems today prevent you from messing up the system’s core process. Windows has system protection and MacOS has SIP (System Integrity Protection). You won’t be able to perform certain tasks which are system protected. However, with CLI, you will have full control over your system.
 
 ---
 
@@ -1202,6 +1331,7 @@ his password type, `passwd 123456789`.
 
 ### Useful Windows Commands
 
+---
 
 #### ASSOC: Fix File Associations
 
